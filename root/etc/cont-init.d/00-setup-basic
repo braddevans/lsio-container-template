@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+echo "Setup configs initialised"
+echo "Setup configs Done"
